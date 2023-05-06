@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PROYECTO_DE_AULA.AutoRegistro">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>hAAAAAAAEAAAAAAAAAAAAAAAgAAAkBAAAAAABAAAAAA=</HashCode>
+      <FileName>AutoRegistro.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PROYECTO_DE_AULA.ClientesRegistros">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>ClientesRegistro.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PROYECTO_DE_AULA.Consultar">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAgAAEEAAAAABAAACAAAABAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Consulta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PROYECTO_DE_AULA.Eliminar">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAEAAAABAAAgAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Eliminar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Presentacion.Program">
+    <Position X="9.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PROYECTO_DE_AULA.PantallaPrincipal">
+    <Position X="7.75" Y="3.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PantallaPrincipal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
